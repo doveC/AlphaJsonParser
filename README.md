@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/doveC/AlphaJsonParser/master/resources/AlphaJsonParser.png)
+
 # 使用C++17标准的JSON解析器
 
 - 使用std::variant管理json数据类型，std::string_view进行代理模式明确只读语义，std::optional处理非侵入式异常处理机制
